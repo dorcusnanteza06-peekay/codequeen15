@@ -1,0 +1,37 @@
+body{
+    font-style: normal;
+}
+h1{
+    font-style: oblique;
+}
+
+/*call the class while using a dot */
+.facebook{
+    color:blue;
+
+} 
+.social{
+    background-color: blueviolet;
+    
+} 
+table{
+    border-color:  rgb(14, 190, 14);
+}
+.first{
+    border-style: dotted;
+}
+body{
+    margin: 10px 15px 10px 15px;
+    padding: 0px;
+}
+/*flex properties*/
+.container{
+    background-color: blue;
+}
+.childcontainer{
+    background-color: aqua;
+}
+.grandchildContainer{
+    background-color: bisque;
+    display: flex;
+}
